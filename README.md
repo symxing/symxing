@@ -4,11 +4,7 @@ Hi, I'm Symone! I'm a data scientist who is passionate about making anxiety frie
 I'm currently working on the anxious to-do list, a to-do list to help anxious people priotize their day-to-day activites and chores. 
 
 - You can find me designing widgets and buttons on [CodePen](https://codepen.io/symxing)
-- You can also see what I'm up to on [LinkedIn](https://www.linkedin.com/in/symonehohensee/)
-- Here is my most recent Medium Article
 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@symonehohensee/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@symonehohensee/0" alt="Recent Article 0"> 
 
 <!--
 **symxing/symxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
